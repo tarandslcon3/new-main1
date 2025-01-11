@@ -44,3 +44,5 @@ pattern1 = invert_triangle(8)
 
 for i in pattern1:
     print(i)
+
+
